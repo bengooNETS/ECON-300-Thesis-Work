@@ -19,9 +19,10 @@ Academic Year 2018-2019
 ### R-Code can be found here:
 
 #### Random number generation for survey-
+"Random Number.r", This file was used to generate the random numbers presented to subjects within the ambiguous-risk treatments.
 
 #### Data Cleaning and Analysis, Regression, Bonus Payment Calculation-
 
-### Bonus payments were ditributed using Mechanical Turk's API using the following python file:
+### Bonus payment distribution:
 
-paymentDeployment.py
+paymentDeployment.py, this file leverages Mechanical Turk's API to automate the distribution of bonus payments calculated within the main R file.
