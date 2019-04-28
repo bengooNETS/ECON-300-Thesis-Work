@@ -18,6 +18,8 @@ R-Code can be found here:
 
 Random number generation for survey-
 
-Data Cleaning and Analysis, Regression, Bonus Payment Calculator-
+Data Cleaning and Analysis, Regression, Bonus Payment Calculation-
 
 Bonus payments were ditributed using Mechanical Turk's API using the following python file:
+
+paymentDeployment.py
