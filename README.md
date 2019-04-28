@@ -19,7 +19,7 @@ Academic Year 2018-2019
 ### R-Code can be found here:
 
 #### Random number generation for survey-
-"Random Number.r", This file was used to generate the random numbers presented to subjects within the ambiguous-risk treatments.
+"Random Number.R", This file was used to generate the random numbers presented to subjects within the ambiguous-risk treatments.
 
 #### Data Cleaning and Analysis, Regression, Bonus Payment Calculation-
 
