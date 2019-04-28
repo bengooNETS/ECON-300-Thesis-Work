@@ -1,5 +1,5 @@
 # ECON-300-Thesis-Work
-Public Repository of data collected and R code used for analysis for ECON 300 Thesis at UPenn, 2019
+Public Repository of data collected and R code created as part of an ECON 300 Senior Thesis at UPenn. Academic Year 2018-2019
 
 ### Files
 This is the thesis PDF:
