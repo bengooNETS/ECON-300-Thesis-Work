@@ -38,4 +38,4 @@ qualtrics_analysis_script.R, this file was used to merge Mechanical Turk data wi
 
 ### Bonus payment distribution:
 
-paymentDeployment.py, found within the "Python Code" subdirectory, this file uses Mechanical Turk's API to automate the distribution of bonus payments calculated within the main R file.
+paymentDeployment.py, found within the "Python Code" subdirectory, uses Mechanical Turk's API to automate the distribution of bonus payments calculated within the main R file.
