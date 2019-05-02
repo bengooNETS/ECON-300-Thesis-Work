@@ -1,0 +1,5 @@
+treatment,Full-time employed,Not Working (disabled),Not working and not seeking employment,Not working and seeking employment (Unemployed),Part-time employed,Part-time looking for full-time,Prefer not to answer,Retired
+AWA,0.71,0.0092,0.028,0.046,0.14,0.037,0,0.037
+AWNA,0.76,0.02,0.049,0.0098,0.14,0.0098,0,0.0098
+PLA,0.79,0.01,0.02,0.03,0.09,0.02,0.02,0.02
+PLNA,0.7,0.0096,0.0096,0.029,0.21,0.0096,0.0096,0.019
