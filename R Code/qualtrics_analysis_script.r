@@ -267,11 +267,6 @@ sum(as.numeric(payments))
 reasonsGiven = rep(paste("Thank you for participating in our study. As noted at the end of the study, you were randomly selected to have your investment/work ",
               "decision payed out. This is that payment.", sep = ""), length(workerIDs))
 
-##Using MTurkR API to pay workers super easily
-##Setting System variables for account
-Sys.setenv(AWS_ACCESS_KEY_ID = "AKIAJ3UXBXXHIQLEBI5A",
-           AWS_SECRET_ACCESS_KEY = "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")
-library(MTurkR)
 write_csv(finalClean_cash, "BonusPaymentPlan.csv")
 write_csv(trial_batch, "BonusPaymentPlan2.csv")
 #####Bonus Payment dispatchment was completed using the MTurk Python API
