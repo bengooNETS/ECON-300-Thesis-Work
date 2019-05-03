@@ -5,7 +5,7 @@ Academic Year 2018-2019
 
 ## File Directory Description
 ### Final Thesis Paper:
-Main directory, "Goodman_Final_Thesis.pdf".
+Main directory, "Goodman_Finalthesis.pdf".
 
 ### Final Thesis Presentation:
 A final presentation of this thesis was given on May 1, 2019. This Presentation is available in the main directory as a .pdf file and is titled "final_seminar_presentation".
